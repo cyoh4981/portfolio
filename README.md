@@ -20,47 +20,23 @@ E-mail: cyoh4981@gmail.com
 <img src="./fastapi.png" width="30px" height="30px"/> **FastAPI** &nbsp;
 
 <img src="./mariadb.png" width="30px" height="30px"/> **MariaDB** &nbsp;
-
 <!--
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">-->
 <!--
-(Java를 메인으로 하고, 공고를 보고 필요한 스택만 표시해서 제출.)
-
-<div style="display: flex;">
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
-
-<div style="display: flex;">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
- 
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  </div>
+이 안에 기술스택 다 넣고 공고마다 선택
 -->
 &nbsp;  
-&nbsp;  
-
-
-
 
 ## 💻 Project
 
-### 🎼OnTheBlock : 합주 SNS 플랫폼
-'23.08.28 - '23.11.06 (6주) , 개발인원 5명
+### 🎼AI 기반 반려견 라이프 어시스턴트: 우리 강아지를 위한 맞춤형 산책로 추천 어플
+'25.11.05 - '25.11.28 (4주) , 개발인원 5명
 
 **[프로젝트 개요]**
-- 아마추어 뮤지션들을 위한 합주 플랫폼입니다.
+- 기획 의도: 기존 서비스들의 단순 반려견 관련 장소 표시 기능을 넘어 개인화된 산책 경로 추천을 메인으로 한 플랫폼을 개발하고자 함
+- 주제: 견종, 반려견의 건강 상태, GPS 등의 정보를 토대로 반려견을 위한 맞춤형 산책로 추천 기능을 구현한 웹 어플리케이션 개발
 - 사회적 거리두기로 인한 음악 동아리 운영의 어려움을 떠올리며, 가수 성시경의 합주 영상을 모티브로 구현한 시스템입니다.
 - 빅데이터 추천 시스템을 적용해 연주 영상을 맞춤 추천하고, 뮤지션들의 활발한 교류를 촉진합니다.
  

@@ -13,13 +13,13 @@ E-mail: cyoh4981@gmail.com
 &nbsp;
 
 ## 🛠️ Skills  
-<img src="./java_icon.png" width="30px" height="30px"/> **Python** &nbsp;  
+<img src="./python.png" width="30px" height="30px"/> **Python** &nbsp;  
 
-<img src="./spring_icon.png" width="30px" height="30px"/> **PyTorch** &nbsp;
+<img src="./pytorch.png" width="30px" height="30px"/> **PyTorch** &nbsp;
 
-<img src="./mysql_icon.png" width="30px" height="30px"/> **FastAPI** &nbsp;
+<img src="./fastapi.png" width="30px" height="30px"/> **FastAPI** &nbsp;
 
-<img src="./mysql_icon.png" width="30px" height="30px"/> **MariaDB** &nbsp;
+<img src="./mariadb.png" width="30px" height="30px"/> **MariaDB** &nbsp;
 
 <!--
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
